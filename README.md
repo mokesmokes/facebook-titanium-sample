@@ -5,7 +5,7 @@ This test app has been tested on both iOS and Android simulators and devices, in
 If it doesn't work, it's a personal installation issue or possibly a bad setup on the Facebook developer site.
 This app was tested with the module zip files in the [Android](https://github.com/mokesmokes/titanium-android-facebook) and [iOS](https://github.com/mokesmokes/titanium-ios-facebook) repositories.
 For iOS I used 3.5.0.GA, and for Android I used [my fork from 3_4_X, called 3_4_M](https://github.com/mokesmokes/titanium_mobile/tree/3_4_M).
-You can download my [prebuilt SDK here](goo.gl/U8bB1x)
+You can download my [prebuilt SDK here](http://goo.gl/U8bB1x)
 The reason for not using a GA SDK for Android is that some pull requests, such as [this one](https://github.com/appcelerator/titanium_mobile/pull/6272 ) and
 [this one](https://github.com/appcelerator/titanium_mobile/pull/6275), though merged, are not yet in a production release.
 
