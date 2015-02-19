@@ -75,4 +75,5 @@ if (fb.loggedIn) {
 	button.title = 'Login';
 }
 
+// Android note: each window or tabgroup must be opened after fb.createActivityWorker()
 win.open();
